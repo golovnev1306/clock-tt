@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Владивосток",
+    "differenceTimeUTC": 10
+  },
+  {
+    "city": "Калининград",
+    "differenceTimeUTC": 2
+  },
+  {
+    "city": "Красноярск",
+    "differenceTimeUTC": 7
+  },
+  {
+    "city": "Москва",
+    "differenceTimeUTC": 3
+  }
+]
